@@ -1,0 +1,35 @@
+1
+30
+int arik 96
+int shohid 12
+int rafid 11
+int amin 14
+float mamun 58
+long nath 122
+double arnob 80
+int tafsir 20
+int showrav 43
+int biswas 11
+int hridoy 38
+int khan 21
+int onon 36
+int tayib 203
+int pavel 13
+int sk 56
+long rafi 72
+long chowdary 34
+float delowar 104
+int raja 23
+int ashik 93
+long jaman 67
+long tawhid 90
+long rakib 43
+long mooda DU
+int rajib 54
+string isthiak BUET
+int sumon 57
+string hasinur RUET
+char s j
+3
+2
+mamun 8
